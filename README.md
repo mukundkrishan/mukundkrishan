@@ -1,94 +1,105 @@
-<h2 align="center">Mukund Krishan — Laravel Developer (CRM • HRMS • Enterprise Systems)</h2>
+<h2 align="center">
+  <img src="https://img.shields.io/badge/Laravel-Developer-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
+  <br>
+  Mukund Krishan — CRM • HRMS • Enterprise Systems
+</h2>
 
 <p align="center">
-Building scalable business applications with Laravel — focusing on CRM, HRMS, workflow automation, job processing, and performance-driven backend engineering.
+Building scalable, performance-driven enterprise applications with Laravel — focusing on CRM, HRMS, workflow automation, job processing, and validation-centric backend architecture.
 </p>
 
 ---
 
-## 🧭 Professional Summary
+## ![overview](https://img.shields.io/badge/Professional%20Overview-0A66C2?style=flat-square&logo=google&logoColor=white)
 
-I’m a Laravel Developer specializing in **enterprise application development**, particularly:
+I work primarily in **enterprise-grade Laravel systems**, specializing in:
 
-- CRM & HRMS platforms  
-- Server-side DataTables & advanced filtering workflows  
+- CRM & HRMS modules  
 - Queue & Job-based background processing  
-- Validation pipelines and modular architecture  
-- AI-assisted process automation in business systems  
+- Server-side DataTables & advanced filters  
+- Validation workflows & modular architecture  
+- AI-assisted process automation  
 
-My approach to development focuses on:
+Development approach:
 
-- clean structure  
-- predictable workflows  
+- scalable & predictable workflows  
+- clean maintainable structure  
 - production-ready performance  
-- maintainable, scalable codebases  
 
 ---
 
-## 🛠 Core Tech & Engineering Focus
+## ![domains](https://img.shields.io/badge/Industry%20Domains%20Worked-673AB7?style=flat-square&logo=briefcase&logoColor=white)
 
-**Backend & Frameworks**  
-Laravel • PHP • Livewire • REST APIs • Queues & Jobs • Validation Workflows
+- Travel & Booking Systems  
+- Solar & Renewable Solutions  
+- Insurance & Policy Workflows  
+- HRMS & Enterprise Workforce Platforms  
 
-**Frontend & Utilities**  
+---
+
+## ![stack](https://img.shields.io/badge/Core%20Engineering%20Stack-FFD43B?style=flat-square&logo=stackshare&logoColor=black)
+
+**Backend**
+Laravel • PHP • Livewire • REST APIs • Queues • Jobs
+
+**Frontend**
 jQuery • DataTables • JavaScript • Bootstrap
 
-**Databases & Infra**  
-MySQL • MariaDB • PostgreSQL • SQLite • Apache • Nginx
+**Databases**
+MySQL • MariaDB • PostgreSQL • SQLite
 
-**Tools & Collaboration**  
-Git • GitHub • Bitbucket • Jira • Postman
+**Infrastructure**
+Apache • Nginx
+
+**Tools**
+Git • GitHub • Bitbucket • Postman • Jira
 
 ---
 
-## 🧩 What I Work On
+## ![work](https://img.shields.io/badge/Key%20Work%20Areas-4CAF50?style=flat-square&logo=googlepodcasts&logoColor=white)
 
-- Designing CRM & HRMS modules with role-based access
-- Implementing **job-driven offline data processing pipelines**
-- Server-side DataTables with:
+- Role-based CRM & HRMS modules  
+- Offline policy processing pipelines  
+- Complex DataTables with:
   - column filters
   - multi-select filters
-  - date-range filters
-- Declaration & claim processing workflows
-- Secure validation & activity-logged submissions
-- Enterprise-ready backend architecture
+  - date-range filters  
+- Declaration & claim workflows  
+- Structured validation + audit logging  
+- Scalable backend architecture patterns  
 
 ---
 
-## 📌 Current Learning & Interests
+## ![focus](https://img.shields.io/badge/Current%20Focus-FF9800?style=flat-square&logo=target&logoColor=white)
 
-- Advanced Laravel optimization
-- Scalable queue processing
-- Modular enterprise application design
-- AI integrations for workflow automation
-
----
-
-## 🌐 Connect With Me
-
-- LinkedIn — linkedin.com/in/mukund-krishan  
-- Email — srimukundkrishan@gmail.com
+- Laravel performance optimization  
+- Distributed queue execution  
+- Modular enterprise design  
+- AI-driven workflow automation  
 
 ---
 
-## 📊 GitHub Overview
+## ![connect](https://img.shields.io/badge/Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=mukundkrishan&show_icons=true&theme=transparent" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukundkrishan&layout=compact&theme=transparent" height="150" />
-
-</div>
+🔗 LinkedIn — https://linkedin.com/in/mukund-krishan  
+📧 Email — srimukundkrishan@gmail.com  
 
 ---
 
-### 🧠 Engineering Mindset
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=mukundkrishan&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=mukundkrishan&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mukundkrishan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-> Systems should be scalable, predictable, and maintainable —
-> not just functional.
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=mukundkrishan&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
+
+## ![engineering](https://img.shields.io/badge/Engineering%20Philosophy-6200EE?style=flat-square&logo=materialdesign&logoColor=white)
+
+> Software should be scalable, predictable, and maintainable — not just functional.
 
 <p align="center">
-If a solution improves reliability, performance, or process clarity — I want to build it.
+If a solution improves reliability, clarity, or performance — I enjoy building it.
 </p>
