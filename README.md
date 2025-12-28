@@ -1,24 +1,94 @@
-# 💫 About Me:
-Laravel Developer specializing in CRM, HRMS, and enterprise application development.<br>I work extensively with server-side DataTables, job queues, validation workflows, modular architecture, and AI-assisted process automation.<br>I focus on building scalable, performance-optimized backend systems and production-ready business solutions.
+<h2 align="center">Mukund Krishan — Laravel Developer (CRM • HRMS • Enterprise Systems)</h2>
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mukund-krishan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:srimukundkrishan@gmail.com) 
-
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Livewire](https://img.shields.io/badge/livewire-%234e56a6.svg?style=for-the-badge&logo=livewire&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mukundkrishan&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=mukundkrishan&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mukundkrishan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mukundkrishan&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+Building scalable business applications with Laravel — focusing on CRM, HRMS, workflow automation, job processing, and performance-driven backend engineering.
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=mukundkrishan&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧭 Professional Summary
+
+I’m a Laravel Developer specializing in **enterprise application development**, particularly:
+
+- CRM & HRMS platforms  
+- Server-side DataTables & advanced filtering workflows  
+- Queue & Job-based background processing  
+- Validation pipelines and modular architecture  
+- AI-assisted process automation in business systems  
+
+My approach to development focuses on:
+
+- clean structure  
+- predictable workflows  
+- production-ready performance  
+- maintainable, scalable codebases  
+
+---
+
+## 🛠 Core Tech & Engineering Focus
+
+**Backend & Frameworks**  
+Laravel • PHP • Livewire • REST APIs • Queues & Jobs • Validation Workflows
+
+**Frontend & Utilities**  
+jQuery • DataTables • JavaScript • Bootstrap
+
+**Databases & Infra**  
+MySQL • MariaDB • PostgreSQL • SQLite • Apache • Nginx
+
+**Tools & Collaboration**  
+Git • GitHub • Bitbucket • Jira • Postman
+
+---
+
+## 🧩 What I Work On
+
+- Designing CRM & HRMS modules with role-based access
+- Implementing **job-driven offline data processing pipelines**
+- Server-side DataTables with:
+  - column filters
+  - multi-select filters
+  - date-range filters
+- Declaration & claim processing workflows
+- Secure validation & activity-logged submissions
+- Enterprise-ready backend architecture
+
+---
+
+## 📌 Current Learning & Interests
+
+- Advanced Laravel optimization
+- Scalable queue processing
+- Modular enterprise application design
+- AI integrations for workflow automation
+
+---
+
+## 🌐 Connect With Me
+
+- LinkedIn — linkedin.com/in/mukund-krishan  
+- Email — srimukundkrishan@gmail.com
+
+---
+
+## 📊 GitHub Overview
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=mukundkrishan&show_icons=true&theme=transparent" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukundkrishan&layout=compact&theme=transparent" height="150" />
+
+</div>
+
+---
+
+### 🧠 Engineering Mindset
+
+> Systems should be scalable, predictable, and maintainable —
+> not just functional.
+
+---
+
+<p align="center">
+If a solution improves reliability, performance, or process clarity — I want to build it.
+</p>
