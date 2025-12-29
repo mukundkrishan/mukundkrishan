@@ -91,9 +91,6 @@ Git • GitHub • Bitbucket • Postman • Jira
 ![](https://nirzak-streak-stats.vercel.app/?user=mukundkrishan&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mukundkrishan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mukundkrishan&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 ---
 
 ## ![engineering](https://img.shields.io/badge/Engineering%20Philosophy-6200EE?style=flat-square&logo=materialdesign&logoColor=white)
